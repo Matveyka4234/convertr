@@ -37,9 +37,9 @@ source venv/bin/activate
 python main.py <base> <target> <amount>
 ```
 
-*<base> — базовая валюта подробнее с возможными валютами можно ознакомится на [сайте](https://www.exchangerate-api.com/docs/supported-currencies).
-*<target> — итоговая валюта.
-*<amount> — введите количество базовой валюты.
+* <base> — базовая валюта подробнее с возможными валютами можно ознакомится на [сайте](https://www.exchangerate-api.com/docs/supported-currencies).
+* <target> — итоговая валюта.
+* <amount> — введите количество базовой валюты.
 
 Пример:
 
@@ -48,5 +48,6 @@ python main.py RUB EUR 15000
 ```
 
 ## Цели проекта
+
 
 Код написан в учебных целях - для курса по Python на сайте [Бюро20](https://buro20.ru).
